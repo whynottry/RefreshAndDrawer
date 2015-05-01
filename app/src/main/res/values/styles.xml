@@ -1,5 +1,9 @@
 <resources>
 
+    <declare-styleable name="refreshableView">
+        <attr name="interceptAllMoveEvents" format="boolean"/>
+    </declare-styleable>
+
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
